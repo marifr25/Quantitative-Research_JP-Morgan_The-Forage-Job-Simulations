@@ -23,7 +23,7 @@
   - Then for the parameters $p$, $d$, $q$, choose 5, 1, 0 in sequence.
   - In the final stage, plotting to find out what the forecast that has been made looks like.
 ### 📈 Results
-![image](https://github.com/user-attachments/assets/029adeb0-b4db-423c-abbf-2f4e00eace7f)
+![alt text](image.png)
 ## 🔬 Task 2
 ### 🧠 Task Overview
 - How to write a function that takes particular inputs and gives back the value of a contract
